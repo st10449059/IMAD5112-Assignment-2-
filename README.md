@@ -10,7 +10,7 @@ To make sure my code works on more platforms than just my local machine, I'll be
 In conclusion, this project aims to create an Android application reminiscent of the beloved Tamagotchi app, providing users with the opportunity to care for their virtual pets through feeding, playing, and cleaning interactions while receiving real-time updates on their pet's well-being. The user interface, featuring intuitive buttons and switches, enhances the user experience, making pet care both engaging and accessible. Furthermore, captivating images of the virtual dog deepen the emotional connection between users and their digital companions, enriching the overall experience with a sense of warmth and companionship. To ensure the reliability and compatibility of the application across various platforms, GitHub Actions will be utilized for testing and continuous improvement. Through GitHub, detailed reports will be generated, offering transparency and facilitating a comprehensive understanding of the application's features and objectives for both developers and end-users. This integration of technology and user-centric design aims to enhance the overall development and user experience, fostering a seamless and enjoyable journey in the world of virtual pet ownership.
 
 # YouTube Video 
-
+https://youtu.be/mvTmrNri3pQ
 
 # Refrences 
 To ensure clarity and proficiency in fulfilling the assignment requirements, I diligently referred to the provided manual, utilizing it as a comprehensive guide to understand the task at hand and effectively program the desired functionalities. in addition i used the use of a YouTube video to help me understand how to link the two pages of the application. 
